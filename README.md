@@ -1,2 +1,2 @@
-# spring-cloud-microservice
-Spring Cloud Microservice
+# microservice-exception-handling
+Demo microservice exception handling with spring cloud.
